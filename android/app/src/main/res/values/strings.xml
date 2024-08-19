@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">demoapp</string>
+  <string name="expo_splash_screen_resize_mode" translatable="false">contain</string>
+  <string name="expo_splash_screen_status_bar_translucent" translatable="false">false</string>
+  <string name="facebook_app_id">488085843940120</string>
+  <string name="facebook_client_token">1dc0bd1c28188b51f39464379c1797f7</string>
+  <string name="fb_login_protocol_scheme">fb488085843940120</string>
+</resources>
